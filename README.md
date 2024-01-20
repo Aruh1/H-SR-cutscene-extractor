@@ -16,7 +16,8 @@ FFMPEG.EXE(Put in Repo)
 5. install FFMPEG(only exe)
 6. put ffmpeg inside folder
 7. use install.bat
-8. You are good to go!
+8. if someone god knows how managed to not get TabError then good for you, for those who got it, please refer to [this](https://github.com/acezx-programer/H-SR-cutscene-extractor/issues/6#issuecomment-1898752499)
+9. You are good to go!
 
 
 **Usage**
